@@ -1,0 +1,7 @@
+.env
+*.token
+*.secret
+memory.md
+posts_ledger.jsonl
+report-*.md
+private-config.*
